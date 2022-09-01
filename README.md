@@ -4,4 +4,4 @@ NPM     : 2106751184
 
 Kelas   : PBP E
 
-Hobi    : Ngepam, Rucking, Gambar
+Hobi    : Ngepam, Rucking, Gambar,
